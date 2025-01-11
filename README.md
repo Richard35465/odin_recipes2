@@ -1,1 +1,1 @@
-# odin_recipes2
+This is my second attempt at doing the odin_recipes project from the Odin Project. It should demonstrate an increasing level of competency with HTML.
